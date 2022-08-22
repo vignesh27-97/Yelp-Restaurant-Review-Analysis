@@ -1,4 +1,4 @@
-# Yelp-Restaurant-Review-Analysis
+# Yelp Restaurant Review Analysis
 
 •	Merged the customer review with the Yelp business dataset and performed contextual mining of text by identifying and extracting customer reviews based on Sentiment analysis 
 
